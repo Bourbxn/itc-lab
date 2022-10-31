@@ -5,7 +5,7 @@
 Introduction to Computer Engineering (01076101) Computer Engineering, KMITL
 <br>
 
-## List for all Chapter
+## List for All Chapters
 - [Charlieplexing](https://github.com/Bourbxn/itc_lab/tree/master/assignment-1)
 - [Priority Switch](https://github.com/Bourbxn/itc_lab/tree/master/assignment-2)
 - [Number Guessing](https://github.com/Bourbxn/itc_lab/tree/master/assignment-3)
